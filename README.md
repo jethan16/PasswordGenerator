@@ -15,7 +15,7 @@ The app asks the following -
       5. Should your password have numbers?
       
 The program retrieves the user's responses and pushes them to a nested 'master' array.
-
+![](Images/Screenshots/arrays.png)
 
 
 Next, the program runs a for loop that uses question 1 to determine the amount (x) of times the for loop should run. 
