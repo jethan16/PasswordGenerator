@@ -4,6 +4,8 @@ This application randomly generates a password when the 'generate' button is cli
 
 When the user clicks 'generate' the program runs a function called 'generatePassword()'
 
+![](Images/Screenshots/genPassFunction.png)
+
 The app asks the following -
 
       1. How many characters should your password be
