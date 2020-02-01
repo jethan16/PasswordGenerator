@@ -22,8 +22,10 @@ The program retrieves the user's responses and pushes them to a nested 'master' 
 
 Next, the program runs a for loop that uses question 1 to determine the amount (x) of times the for loop should run. 
 
-![](Images/Screenshots/forLoop.png)
-
-Finally, the program drills into the nested master array, picks a random character, and appends that character to an empty string.
+Inside the for loop the program drills into the nested master array, picks a random character, and appends that character to an empty string.
 
 The program runs this process 'x' amount of times to generate a password that has the desired characters and length the user submitted. 
+
+![](Images/Screenshots/forLoop.png)
+
+Finally, the generate password function alters the HTML with the var 'passwordText' so that the generated password displays on the user's screen. 
