@@ -2,6 +2,8 @@
 
 This application randomly generates a password when the 'generate' button is clicked based off of a series of user entries. 
 
+![](Images/Screenshots/PasswordGen.png)
+
 When the user clicks 'generate' the program runs a function called 'generatePassword()'
 
 ![](Images/Screenshots/genPassFunction.png)
